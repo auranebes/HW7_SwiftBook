@@ -11,7 +11,7 @@ import SwiftUI
 struct HW7_SwiftBookApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AwardsView()
         }
     }
 }
